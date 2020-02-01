@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\New folder (4)\csharp3\csharp3\bin\Debug\netcoreapp3.1\csharp3.exe
+C:\Users\user\Desktop\New folder (4)\csharp3\csharp3\bin\Debug\netcoreapp3.1\csharp3.deps.json
+C:\Users\user\Desktop\New folder (4)\csharp3\csharp3\bin\Debug\netcoreapp3.1\csharp3.runtimeconfig.json
+C:\Users\user\Desktop\New folder (4)\csharp3\csharp3\bin\Debug\netcoreapp3.1\csharp3.runtimeconfig.dev.json
+C:\Users\user\Desktop\New folder (4)\csharp3\csharp3\bin\Debug\netcoreapp3.1\csharp3.dll
+C:\Users\user\Desktop\New folder (4)\csharp3\csharp3\bin\Debug\netcoreapp3.1\csharp3.pdb
+C:\Users\user\Desktop\New folder (4)\csharp3\csharp3\obj\Debug\netcoreapp3.1\csharp3.csprojAssemblyReference.cache
+C:\Users\user\Desktop\New folder (4)\csharp3\csharp3\obj\Debug\netcoreapp3.1\csharp3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\New folder (4)\csharp3\csharp3\obj\Debug\netcoreapp3.1\csharp3.AssemblyInfo.cs
+C:\Users\user\Desktop\New folder (4)\csharp3\csharp3\obj\Debug\netcoreapp3.1\csharp3.dll
+C:\Users\user\Desktop\New folder (4)\csharp3\csharp3\obj\Debug\netcoreapp3.1\csharp3.pdb
